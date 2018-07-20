@@ -1,1 +1,1 @@
-class PostsController < ApplicationController
+class StaticController < ApplicationController
